@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Wildan Hariri Zaeni</h1>
 <h3 align="center">A passionate frontend developer from Indonesia</h3>
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/8c/f6/06/8cf60608f95bfae20a9e78884e1a33cb.gif">
+<img align="right" alt="Coding" height="300" src="https://i.pinimg.com/originals/8c/f6/06/8cf60608f95bfae20a9e78884e1a33cb.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=haririwildan&label=Profile%20views&color=0e75b6&style=flat" alt="haririwildan" /> </p>
 
