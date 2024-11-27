@@ -4,8 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=haririwildan&label=Profile%20views&color=0e75b6&style=flat" alt="haririwildan" /> </p>
 
-<p align="left"> <a href="https://twitter.com/wldnhriri" target="blank"><img src="https://img.shields.io/twitter/follow/wldnhriri?logo=twitter&style=for-the-badge" alt="wldnhriri" /></a> </p>
-
 - 🌱 I’m currently learning **node.js, express.js**
 
 - 📫 How to reach me **wildanzaeni13@gmail.com**
