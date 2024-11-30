@@ -1,6 +1,8 @@
-<h1 align="center">Hi 👋, I'm Wildan Hariri Zaeni</h1>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Wildan+Hariri+Zaeni!;" />
+</h1>
 <h3 align="center">A passionate frontend developer from Indonesia</h3>
-<img align="right" alt="Coding" height="300" src="https://i.pinimg.com/originals/8c/f6/06/8cf60608f95bfae20a9e78884e1a33cb.gif">
+<img align="right" alt="Coding" height="280" src="https://i.pinimg.com/originals/8c/f6/06/8cf60608f95bfae20a9e78884e1a33cb.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=haririwildan&label=Profile%20views&color=0e75b6&style=flat" alt="haririwildan" /> </p>
 
@@ -47,11 +49,15 @@
 </div>
 
 ##
-<p align="left" style="width: 100%;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=haririwildan&layout=compact&langs_count=10&theme=gruvbox&hide_border=true&size_weight=0.5&count_weight=0.4&hide=yacc,makefile,ragel,c,cplusplus,hack,cmake,cpp,dart,c++,cp"
+<p align="center">
+<a href="https://github.com/haririwildan">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=haririwildan&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=haririwildan&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+</a>
+</p>
+
+##
+<p align="center" style="width: 100%;">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=haririwildan&theme=algolia&hide_border=true"
             alt="wldnhriri" style="height: 200px" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=haririwildan&theme=gruvbox&hide_border=true"
-            alt="wldnhriri" style="height: 200px" />
-  <img src="https://github-readme-stats.vercel.app/api?username=haririwildan&show_icons=true&locale=en&theme=gruvbox&hide_border=true"
-            alt="haririwildan" style="height: 200px" />
 </p>
